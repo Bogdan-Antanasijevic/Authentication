@@ -1,0 +1,18 @@
+.heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: .5rem;
+    h1{
+        display: flex;
+        gap: .5rem;
+        align-items: center;
+    }
+}
+.form{
+    .form-group{
+        margin-bottom: 1rem;
+        
+    }
+}
